@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=🐍+PythonPP+–+Python+Plus+Plus!;Learn+Python+the+Smart+Way;Build+→+Code+→+Master" alt="Animated Header" />
+  <img src="https://raw.githubusercontent.com/PythonPP-Python-Plus-Plus/PythonPP-Python-Plus-Plus/main/assets/pythonpp-banner.png" alt="PythonPP Banner" width="800">
+  
+  <h1 style="color: #3776AB; font-size: 2.5em; margin: 20px 0;">🐍 PythonPP – Python Plus Plus!</h1>
+  <h3 style="color: #5e5e5e; font-weight: normal; margin-top: 0;">Learn Python the Smart Way | Build → Code → Master</h3>
 </div>
 
 <div align="center">
@@ -59,7 +62,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
 
-  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
     <div style="padding: 20px;">
       <h3 style="color: #3776AB; margin-bottom: 10px;">📊 Data Visualization Dashboard</h3>
       <p>Interactive dashboard using Plotly and Dash with real-time data</p>
@@ -71,7 +74,7 @@
     </div>
   </div>
 
-  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
     <div style="padding: 20px;">
       <h3 style="color: #3776AB; margin-bottom: 10px;">🤖 Automated Reporting Tool</h3>
       <p>Generates PDF reports from Excel data with custom templates</p>
@@ -79,18 +82,6 @@
         <span style="background: #e1f5fe; color: #0288d1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Python</span>
         <span style="background: #fff3e0; color: #e65100; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">PDFKit</span>
         <span style="background: #e8f5e9; color: #388e3c; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Pandas</span>
-      </div>
-    </div>
-  </div>
-
-  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s;">
-    <div style="padding: 20px;">
-      <h3 style="color: #3776AB; margin-bottom: 10px;">🌐 URL Shortener Service</h3>
-      <p>Full-stack application with analytics and user accounts</p>
-      <div style="margin-top: 15px;">
-        <span style="background: #e1f5fe; color: #0288d1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Python</span>
-        <span style="background: #e0f7fa; color: #00acc1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Flask</span>
-        <span style="background: #f1f8e9; color: #689f38; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">SQLite</span>
       </div>
     </div>
   </div>
@@ -143,6 +134,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning,+Keep+Building;See+You+in+the+Code!✨" alt="Goodbye Message" />
+<div align="center" style="padding: 30px; background: #f8f9fa; border-radius: 15px; margin-top: 40px;">
+  <h3 style="color: #3776AB;">Happy Coding!</h3>
+  <p style="color: #5e5e5e; font-size: 1.1em;">Keep Learning, Keep Building</p>
+  <p style="color: #5e5e5e; font-style: italic;">See You in the Code! ✨</p>
 </div>
