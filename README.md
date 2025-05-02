@@ -115,7 +115,6 @@
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=PythonPP-Python-Plus-Plus&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=3776AB&icon_color=3776AB&text_color=333" alt="GitHub Stats" style="width: 48%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PythonPP-Python-Plus-Plus&theme=default&hide_border=true&background=00000000&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" alt="GitHub Streak" style="width: 48%;">
   </div>
 </div>
 
