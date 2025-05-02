@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PythonPP-Python-Plus-Plus/PythonPP-Python-Plus-Plus/main/assets/pythonpp-banner.png" alt="PythonPP Banner" width="800">
+  
   
   <h1 style="color: #3776AB; font-size: 2.5em; margin: 20px 0;">🐍 PythonPP – Python Plus Plus!</h1>
   <h3 style="color: #5e5e5e; font-weight: normal; margin-top: 0;">Learn Python the Smart Way | Build → Code → Master</h3>
