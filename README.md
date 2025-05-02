@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://avatars.githubusercontent.com/u/PythonPP-Python-Plus-Plus" width="200" style="border-radius: 50%; border: 5px solid #3776AB; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+  <img src="https://avatars.githubusercontent.com/u/PythonPP-Python-Plus-Plus?v=4" width="200" style="border-radius: 50%; border: 5px solid #3776AB; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
 
   <h1 style="color: #3776AB; font-size: 2.5em; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">🐍 PythonPP – Python Plus Plus!</h1>
   <h3 style="color: #5e5e5e; font-weight: normal; margin-top: 0;">Learn Python the Smart Way | Build → Code → Master</h3>
