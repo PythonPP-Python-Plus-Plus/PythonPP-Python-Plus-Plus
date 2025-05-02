@@ -119,45 +119,6 @@
   </div>
 </div>
 
-<!-- Languages Card -->
-<div style="width: 100%; background: linear-gradient(135deg, #f8f9fa 0%, #e9f5e9 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); border-left: 5px solid #4CAF50;">
-  <h3 style="color: #4CAF50; margin-top: 0; text-align: center;">My Coding Languages</h3>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonPP-Python-Plus-Plus&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=4CAF50&text_color=333" alt="Top Languages" style="width: 48%;">
-    
-    <!-- Language Progress Bars -->
-    <div style="width: 48%; padding: 15px; background: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-      <div style="margin-bottom: 10px;">
-        <span style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-          <span>Python</span>
-          <span>85%</span>
-        </span>
-        <div style="height: 10px; background: #e0e0e0; border-radius: 5px;">
-          <div style="height: 100%; width: 85%; background: #3776AB; border-radius: 5px;"></div>
-        </div>
-      </div>
-      <div style="margin-bottom: 10px;">
-        <span style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-          <span>JavaScript</span>
-          <span>10%</span>
-        </span>
-        <div style="height: 10px; background: #e0e0e0; border-radius: 5px;">
-          <div style="height: 100%; width: 10%; background: #F7DF1E; border-radius: 5px;"></div>
-        </div>
-      </div>
-      <div style="margin-bottom: 10px;">
-        <span style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-          <span>HTML/CSS</span>
-          <span>5%</span>
-        </span>
-        <div style="height: 10px; background: #e0e0e0; border-radius: 5px;">
-          <div style="height: 100%; width: 5%; background: #E34F26; border-radius: 5px;"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Activity Graph -->
 <div style="width: 100%; background: linear-gradient(135deg, #f5f7fa 0%, #fff8e1 100%); padding: 25px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); border-left: 5px solid #FFD43B;">
