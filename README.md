@@ -1,128 +1,148 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🌟+Welcome+to+Pythoniacs-Codebook!+🚀;Where+Ideas+Turn+Into+Reality!;Let's+Build+the+Future+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=🐍+PythonPP+–+Python+Plus+Plus!;Learn+Python+the+Smart+Way;Build+→+Code+→+Master" alt="Animated Header" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pythoniacs-Codebook&label=Profile%20Views&color=FF5733&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pythoniacs-Codebook?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=PythonPP-Python-Plus-Plus&label=PROFILE+VIEWS&color=3776AB&style=flat" alt="Profile Views" /> 
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow" alt="Python Version">
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-green" alt="Skill Level">
 </div>
 
 <br>
 
-<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background: linear-gradient(to right, #ffffff, #f8f9fa); border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p style="font-size: 1.2em; color: #333; line-height: 1.6;">
-    At <span style="color: #FF5733; font-weight: bold;">Pythoniacs-Codebook</span>, we believe in the power of <span style="color: #FF5733; font-weight: bold;">technology, coding, and innovation</span> to transform ideas into reality. Whether you're a seasoned developer or a curious beginner, we're here to inspire, educate, and create! Let's build the future, together! 💡🚀
+<div align="center" style="max-width: 800px; margin: 0 auto; padding: 25px; background: linear-gradient(145deg, #f8f9fa, #e9f5ff); border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); border-left: 5px solid #3776AB;">
+  <p style="font-size: 1.2em; line-height: 1.8; color: #333;">
+    At <strong style="color: #3776AB;">PythonPP</strong>, we believe the best way to master coding is by building real-world projects. This channel is designed to help you grow your Python skills through 🧠 <em>hands-on practice</em>, 💡 <em>clear explanations</em>, and 👶 <em>beginner-friendly guidance</em>.
   </p>
 </div>
 
 <br>
 
-## 🛠️ Tech Stack
+## 🎯 What You'll Get
 
-<div align="center">
-  <h3>Languages</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </div>
-  
-  <h3>Data Science & AI</h3>
-  <div>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  </div>
-  
-  <h3>Web Development</h3>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </div>
-  
-  <h3>Tools & Platforms</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Jupyter-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  </div>
-</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
-<br>
+  <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 4px solid #FFD43B;">
+    <h3 style="color: #3776AB;">📚 Complete Projects</h3>
+    <p>From basic scripts to advanced applications with clean, production-ready code</p>
+  </div>
 
-## 🌟 About Us
+  <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 4px solid #4B8BBE;">
+    <h3 style="color: #3776AB;">🤖 Automation</h3>
+    <p>Practical automation scripts to make your life easier</p>
+  </div>
 
-<div style="background: linear-gradient(to right, #e8f5e9, #ffffff); padding: 25px; border-radius: 15px; border-left: 5px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <ul style="list-style-type: none; padding-left: 10px;">
-    <li style="margin-bottom: 15px;">✨ <strong>Simplify complex concepts</strong> with easy-to-follow tutorials 📚</li>
-    <li style="margin-bottom: 15px;">✨ <strong>Spark creativity</strong> through coding challenges 💻</li>
-    <li style="margin-bottom: 15px;">✨ <strong>Explore the latest tech trends</strong> and innovations 🌐</li>
-    <li style="margin-bottom: 15px;">✨ <strong>Showcase inspiring projects</strong> that push boundaries 🚀</li>
-  </ul>
-  
-  <p style="font-style: italic; text-align: center; margin-top: 20px; color: #4CAF50; font-weight: bold;">
-    "Let's build a community that celebrates innovation and empowers everyone to achieve their tech dreams."
-  </p>
+  <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 4px solid #306998;">
+    <h3 style="color: #3776AB;">📊 Data Science</h3>
+    <p>Pandas, NumPy, Matplotlib and real-world data projects</p>
+  </div>
+
+  <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 4px solid #FFD43B;">
+    <h3 style="color: #3776AB;">🌐 Web Development</h3>
+    <p>Flask/Django projects with modern practices</p>
+  </div>
+
+  <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 4px solid #4B8BBE;">
+    <h3 style="color: #3776AB;">🧰 Tools & Utilities</h3>
+    <p>Practical tools you can use in daily development</p>
+  </div>
+
+  <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 4px solid #306998;">
+    <h3 style="color: #3776AB;">💼 Interview Prep</h3>
+    <p>Leetcode solutions and coding interview patterns</p>
+  </div>
 </div>
 
 <br>
 
 ## 🚀 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="color: #FF5733;">Colorful Spiral 🎨</h3>
-    <p>Interactive Python Turtle Graphics with stunning visuals and music.</p>
-    <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background: #FF5733; color: white; border-radius: 5px; text-decoration: none;">View Project →</a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
+
+  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="color: #3776AB; margin-bottom: 10px;">📊 Data Visualization Dashboard</h3>
+      <p>Interactive dashboard using Plotly and Dash with real-time data</p>
+      <div style="margin-top: 15px;">
+        <span style="background: #e1f5fe; color: #0288d1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Python</span>
+        <span style="background: #e8f5e9; color: #388e3c; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Pandas</span>
+        <span style="background: #f3e5f5; color: #7b1fa2; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Plotly</span>
+      </div>
+    </div>
   </div>
-  
-  <div style="flex: 1; min-width: 300px; max-width: 400px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="color: #FF5733;">AI Object Detection 🔍</h3>
-    <p>Advanced object detection system using YOLO and TensorFlow.</p>
-    <a href="#" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background: #FF5733; color: white; border-radius: 5px; text-decoration: none;">Coming Soon</a>
+
+  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="color: #3776AB; margin-bottom: 10px;">🤖 Automated Reporting Tool</h3>
+      <p>Generates PDF reports from Excel data with custom templates</p>
+      <div style="margin-top: 15px;">
+        <span style="background: #e1f5fe; color: #0288d1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Python</span>
+        <span style="background: #fff3e0; color: #e65100; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">PDFKit</span>
+        <span style="background: #e8f5e9; color: #388e3c; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Pandas</span>
+      </div>
+    </div>
   </div>
+
+  <div style="width: 350px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="color: #3776AB; margin-bottom: 10px;">🌐 URL Shortener Service</h3>
+      <p>Full-stack application with analytics and user accounts</p>
+      <div style="margin-top: 15px;">
+        <span style="background: #e1f5fe; color: #0288d1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Python</span>
+        <span style="background: #e0f7fa; color: #00acc1; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">Flask</span>
+        <span style="background: #f1f8e9; color: #689f38; padding: 4px 8px; border-radius: 4px; font-size: 0.8em;">SQLite</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
 <br>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pythoniacs-Codebook&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 49%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pythoniacs-Codebook&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pythoniacs-Codebook&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 49%;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PythonPP-Python-Plus-Plus&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PythonPP-Python-Plus-Plus&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonPP-Python-Plus-Plus&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top Languages" style="width: 48%;">
 </div>
 
 <br>
 
-## 🌐 Connect With Me
+## 🌟 Join Our Community
 
-<div align="center" style="margin-top: 30px;">
-  <a href="https://www.youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA" target="_blank">
+<div align="center" style="margin: 40px 0;">
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://github.com/Pythoniacs-Codebook" target="_blank">
+  <a href="https://discord.gg/YOUR_INVITE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/PythonPP-Python-Plus-Plus" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://wa.me/message/V33NEXMUPK3CJ1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:code2with2me@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 <br>
 
-<div align="center" style="margin-top: 50px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+collaborate+and+create+something+amazing!;Keep+coding+and+keep+innovating!✨" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning,+Keep+Building;See+You+in+the+Code!✨" alt="Goodbye Message" />
 </div>
